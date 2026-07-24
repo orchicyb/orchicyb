@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="orchicyb-baner.png" alt="OrchiCyb Banner" width="100%">
-</p>
-
 <h1 align="center">OrchiCyb</h1>
 
 <p align="center">
@@ -22,12 +18,10 @@ OrchiCyb explores a different question:
 
 > **How can intelligence become adaptive rather than simply reactive?**
 
-The lab investigates how artificial intelligence, knowledge graphs and contextual reasoning can transform cyber data into meaningful security decisions.
-
-Rather than building another monitoring platform, the goal is to explore how cybersecurity systems can continuously learn, connect relationships and adapt to evolving threats.
+The lab investigates how artificial intelligence, knowledge graphs and contextual reasoning can transform cyber data into meaningful security decisions. Rather than building another monitoring platform, the goal is to explore how cybersecurity systems can continuously learn, connect relationships and adapt to evolving threats.
 
 <p align="center">
-  <img src="graph.png" alt="OrchiCyb Banner" width="100%">
+  <img src="orchicyb-baner.png" alt="OrchiCyb Banner" width="100%">
 </p>
 
 ---
@@ -104,13 +98,7 @@ An AI-native Adaptive Cybersecurity Intelligence platform exploring the relation
 
 ## Research Philosophy
 
-Cybersecurity becomes valuable when it improves decisions.
-
-Threat intelligence becomes meaningful when relationships become visible.
-
-Artificial intelligence becomes useful when it provides context rather than noise.
-
-Adaptive Cybersecurity Intelligence is the intersection of these ideas.
+Cybersecurity becomes valuable when it improves decisions. Threat intelligence becomes meaningful when relationships become visible. Artificial intelligence becomes useful when it provides context rather than noise. Adaptive Cybersecurity Intelligence is the intersection of these ideas.
 
 ---
 
