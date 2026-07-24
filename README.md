@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="OrchiCyb Banner" width="100%">
+  <img src="orchicyb-baner.png" alt="OrchiCyb Banner" width="100%">
 </p>
 
 <h1 align="center">OrchiCyb</h1>
@@ -9,7 +9,7 @@ Independent Cybersecurity Research Lab
 </p>
 
 <p align="center">
-Exploring Adaptive Cybersecurity Intelligence, AI Security and Knowledge Graphs.
+Exploring Adaptive Cybersecurity Intelligence, CTI, AI Security and Digital Risk.
 </p>
 
 ---
@@ -25,6 +25,10 @@ OrchiCyb explores a different question:
 The lab investigates how artificial intelligence, knowledge graphs and contextual reasoning can transform cyber data into meaningful security decisions.
 
 Rather than building another monitoring platform, the goal is to explore how cybersecurity systems can continuously learn, connect relationships and adapt to evolving threats.
+
+<p align="center">
+  <img src="graph.png" alt="OrchiCyb Banner" width="100%">
+</p>
 
 ---
 
