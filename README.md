@@ -12,12 +12,6 @@ Exploring Adaptive Cybersecurity Intelligence, CTI, AI Security and Digital Risk
 
 ## Research Vision
 
-Most cybersecurity platforms focus on collecting more data.
-
-OrchiCyb explores a different question:
-
-> **How can intelligence become adaptive rather than simply reactive?**
-
 The lab investigates how artificial intelligence, knowledge graphs and contextual reasoning can transform cyber data into meaningful security decisions. Rather than building another monitoring platform, the goal is to explore how cybersecurity systems can continuously learn, connect relationships and adapt to evolving threats.
 
 <p align="center">
