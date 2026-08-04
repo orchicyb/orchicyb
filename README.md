@@ -92,6 +92,8 @@ Research topics include:
 - AI-assisted Incident Analysis
 - Operational Consequence Modelling
 
+➡️ https://github.com/orchicyb/Orchicyb-Critical-Twin
+
 <img width="1388" height="776" alt="Zrzut ekranu 2026-08-4 o 20 43 02" src="https://github.com/user-attachments/assets/2f04b537-5fbe-40d8-ae52-20821c8f0d83" />
 
 ---
