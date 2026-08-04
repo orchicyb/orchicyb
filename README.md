@@ -1,22 +1,6 @@
 <h1 align="center">OrchiCyb</h1>
 
-<p align="center">
-Independent Cybersecurity Research Lab
-</p>
-
-<p align="center">
-Exploring Cyber Threat Intelligence, Critical Infrastructure Security, AI Security and Adaptive Cybersecurity Intelligence.
-</p>
-
----
-
-# Research Vision
-
-OrchiCyb is an independent cybersecurity research lab exploring how Cyber Threat Intelligence, Artificial Intelligence and Digital Twins can improve the understanding of cyber threats affecting modern organizations and critical infrastructure.
-
-The research focuses on transforming fragmented cyber data into contextual intelligence through knowledge graphs, AI-assisted reasoning and interactive visualisation.
-
-Rather than building traditional monitoring tools, OrchiCyb explores how security professionals can better understand, simulate and anticipate cyber attacks.
+OrchiCyb is an independent cybersecurity research lab exploring how Cyber Threat Intelligence, Artificial Intelligence and Digital Twins can improve the understanding of cyber threats affecting modern organizations and critical infrastructure. The research focuses on transforming fragmented cyber data into contextual intelligence through knowledge graphs, AI-assisted reasoning and interactive visualisation. Rather than building traditional monitoring tools, OrchiCyb explores how security professionals can better understand, simulate and anticipate cyber attacks.
 
 ---
 
