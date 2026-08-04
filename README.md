@@ -5,103 +5,121 @@ Independent Cybersecurity Research Lab
 </p>
 
 <p align="center">
-Exploring Adaptive Cybersecurity Intelligence, CTI, AI Security and Digital Risk.
+Exploring Cyber Threat Intelligence, Critical Infrastructure Security, AI Security and Adaptive Cybersecurity Intelligence.
 </p>
 
 ---
 
-## Research Vision
+# Research Vision
 
-The lab investigates how artificial intelligence, knowledge graphs and contextual reasoning can transform cyber data into meaningful security decisions. Rather than building another monitoring platform, the goal is to explore how cybersecurity systems can continuously learn, connect relationships and adapt to evolving threats.
+OrchiCyb is an independent cybersecurity research lab exploring how Cyber Threat Intelligence, Artificial Intelligence and Digital Twins can improve the understanding of cyber threats affecting modern organizations and critical infrastructure.
 
-<p align="center">
-  <img src="orchicyb-baner.png" alt="OrchiCyb Banner" width="100%">
-</p>
+The research focuses on transforming fragmented cyber data into contextual intelligence through knowledge graphs, AI-assisted reasoning and interactive visualisation.
+
+Rather than building traditional monitoring tools, OrchiCyb explores how security professionals can better understand, simulate and anticipate cyber attacks.
 
 ---
 
-## Research Areas
+# Research Areas
 
-- Adaptive Cybersecurity Intelligence
-- Cyber Threat Intelligence
-- AI Security
-- Knowledge Graphs
+# Current Research
+
+Current research focuses on the intersection of:
+
+- Cyber Threat Intelligence 
+- Critical Infrastructure Security
+- Industrial Control Systems (ICS)
 - Detection Engineering
-- Threat Hunting
-- Digital Risk
-- Governance Context
-- Adversarial AI
-- MITRE ATT&CK
-- MITRE D3FEND
-- MITRE ATLAS
+- AI Security
+- Industrial Cybersecurity
+- AI-assisted Threat Analysis
+- Knowledge Graph Reasoning
+- MITRE ATT&CK, D3FEND, ATLAS
+- Industrial Control Systems (ICS)
+- Operational Technology (OT)
+- Digital Twins for Cybersecurity
+- Human-AI Collaboration
+- Emerging Threat Landscapes
 
 ---
 
-## Research Workflow
+# Research Ecosystem
 
 ```mermaid
 flowchart LR
 
-A[Cyber Data]
-B[Threat Intelligence]
-C[Knowledge Graph]
-D[AI Reasoning]
-E[Context]
-F[Security Decisions]
-G[Adaptive Cybersecurity Intelligence]
+A[Cyber Threat Intelligence]
+B[Knowledge Graphs]
+C[Digital Twins]
+D[Industrial Systems]
+E[Artificial Intelligence]
+F[Adaptive Cybersecurity Intelligence]
 
 A --> B
-B --> C
+A --> C
 C --> D
+B --> E
 D --> E
 E --> F
-F --> G
 ```
 
 ---
 
-## Featured Research
+# Featured Research
 
-### 🌸 OrchiCyb AI ATTACK
+## 🌸 OrchiCyb AI ATTACK
 
-An AI-native Adaptive Cybersecurity Intelligence platform exploring the relationships between:
+An AI-native Cyber Threat Intelligence platform exploring relationships between:
 
 - Threat Actors
 - Campaigns
+- Malware
 - MITRE ATT&CK
 - MITRE D3FEND
 - MITRE ATLAS
 - Security Controls
-- Governance Context
-- Detection Engineering
+- Knowledge Graphs
 - AI-assisted Intelligence
+
+<img width="1394" height="776" alt="Zrzut ekranu 2026-08-4 o 20 45 49" src="https://github.com/user-attachments/assets/4b5e09d1-8492-4345-81c4-7a98bc7977de" />
+
 
 ➡️ https://github.com/orchicyb/OrchiCyb-AI-Attack
 
 ---
 
-## Current Focus
+## 🌸 OrchiCyb CRITICAL TWIN
 
-- Building AI-assisted cybersecurity research tools
-- Exploring adaptive intelligence models
-- Knowledge graph reasoning
-- Human-AI collaboration in cybersecurity
-- Emerging AI threats and adversarial techniques
+An AI-powered Cyber Threat Intelligence Digital Twin for Critical Infrastructure. The platform explores how cyber attacks propagate through industrial environments using interactive Digital Twins inspired by real-world operational technology.
+
+Current industries include:
+- Water Treatment
+- Electric Grid
+- Railway
+- Airport
+- Port Terminal
+- Oil & Gas
+- Manufacturing
+- Chemical Plant
+
+Research topics include:
+- MITRE ATT&CK for ICS
+- Purdue Model
+- Attack Simulation
+- Physical Impact Visualisation
+- AI-assisted Incident Analysis
+- Operational Consequence Modelling
+
+<img width="1388" height="776" alt="Zrzut ekranu 2026-08-4 o 20 43 02" src="https://github.com/user-attachments/assets/2f04b537-5fbe-40d8-ae52-20821c8f0d83" />
 
 ---
 
-## Research Philosophy
+# Connect
 
-Cybersecurity becomes valuable when it improves decisions. Threat intelligence becomes meaningful when relationships become visible. Artificial intelligence becomes useful when it provides context rather than noise. Adaptive Cybersecurity Intelligence is the intersection of these ideas.
+🌐 LinkedIn
 
----
-
-## Connect
-
-🌐 LinkedIn  
 https://linkedin.com/company/orchicyb
 
-🌐 Instagram  
-https://instagram.com/orchicyb
+🌐 Instagram
 
----
+https://instagram.com/orchicyb
