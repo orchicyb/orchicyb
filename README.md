@@ -4,8 +4,6 @@ OrchiCyb is an independent cybersecurity research lab exploring how Cyber Threat
 
 ---
 
-# Research Areas
-
 # Current Research
 
 Current research focuses on the intersection of:
