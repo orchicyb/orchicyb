@@ -11,10 +11,10 @@ Current focuses are on the intersection of:
 - Cyber Threat Intelligence 
 - Critical Infrastructure Security
 - Industrial Control Systems (ICS)
+- Cybersecurity of Humanoid and Autonomous Robotic Systems
 - Detection Engineering
-- AI Security
-- AI-assisted Threat Analysis
-- Knowledge Graph Reasoning
+- AI Security and AI-assisted Threat Analysis
+- Knowledge Graph Reasoning and Obsidian-style visualization
 - MITRE ATT&CK, D3FEND, ATLAS
 - Operational Technology (OT)
 - Digital Twins for Cybersecurity
