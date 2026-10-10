@@ -12,7 +12,6 @@ Current focuses are on the intersection of:
 - Critical Infrastructure Security
 - Industrial Control Systems (ICS)
 - Cybersecurity of Humanoid and Autonomous Robotic Systems
-- Detection Engineering
 - AI Security and AI-assisted Threat Analysis
 - Knowledge Graph Reasoning and Obsidian-style visualization
 - MITRE ATT&CK, D3FEND, ATLAS
