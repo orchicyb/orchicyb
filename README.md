@@ -70,17 +70,7 @@ An AI-native Cyber Threat Intelligence platform exploring relationships between:
 
 ## 🌸 OrchiCyb CRITICAL TWIN
 
-An AI-powered Cyber Threat Intelligence Digital Twin for Critical Infrastructure. The platform explores how cyber attacks propagate through industrial environments using interactive Digital Twins inspired by real-world operational technology.
-
-Current industries include:
-- Water Treatment
-- Electric Grid
-- Railway
-- Airport
-- Port Terminal
-- Oil & Gas
-- Manufacturing
-- Chemical Plant
+An AI-powered Cyber Threat Intelligence Digital Twin for Critical Infrastructure. The platform explores how cyber attacks propagate through industrial environments using interactive Digital Twins inspired by real-world operational technology. Current industries include: Water Treatment, Electric Grid, Railway, Airport, Port Terminal, Oil & Gas, Manufacturing, Chemical Plant.
 
 Research topics include:
 - MITRE ATT&CK for ICS
